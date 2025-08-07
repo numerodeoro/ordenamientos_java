@@ -8,12 +8,19 @@ Ahora, el trabajo continúa en Java. Por el momento, el proyecto está en sus pr
 
 ## 📂 Estructura del Proyecto
 ordenamientos_java/
+
 ├── Bubble.java
+
 ├── Bubble.class
+
 ├── Selection.java
+
 ├── Selection.class
+
 ├── CatSort_flat.java
+
 ├── CatSort_flat.class
+
 └── README.md
 
 
