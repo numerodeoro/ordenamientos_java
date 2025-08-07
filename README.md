@@ -6,28 +6,16 @@ Lo que comenzó como un simple repaso de algoritmos clásicos terminó derivando
 
 Ahora, el trabajo continúa en Java. Por el momento, el proyecto está en sus primeras etapas.
 
-Este proyecto es la continuación de "Comparación de algoritmos de ordenamiento", escrito originalmente en Python. Su objetivo principal es evaluar el desempeño de distintos algoritmos de ordenamiento aplicados a listas con diferentes características.
-
-Lo que comenzó como un simple repaso de algoritmos clásicos terminó derivando en variantes propias, como catSort (inspirado en el counting sort pero con varias modificaciones) y pivotear (similar al quicksort, con un cambio de estrategia en la elección del pivote y la partición). También desarrollé un sistema personalizado para testear el rendimiento de los algoritmos.
-
-Ahora, el trabajo continúa en Java. Por el momento, el proyecto está en sus primeras etapas.
-
 ## 📂 Estructura del Proyecto
-├── ordenamientos_java/
+ordenamientos_java/
+├── Bubble.java
+├── Bubble.class
+├── Selection.java
+├── Selection.class
+├── CatSort_flat.java
+├── CatSort_flat.class
+└── README.md
 
-│   ├── Bubble.class
-
-│   ├── Bubble.java
-
-│   ├── CatSort_flat.class
-
-│   ├── CatSort_flat.java
-
-│   ├── Selection.class
-
-│   ├── Selection.java
-
-│   └── README.md
 
 ## ⚙️ Algoritmos Incluidos
 
