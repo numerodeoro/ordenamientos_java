@@ -22,7 +22,7 @@ ordenamientos_java/
 
 - `Bubble` (burbuja)
 - `Selection` (selección)
-- `CatSort_flat` (ordenamiento optimizado para listas con pocas categorías, versión muy libre del counting sort, ver el README de **"Ordenamientos catSort"**)
+- `CatSort_flat` ordenamiento optimizado para listas con pocas categorías, versión muy libre del counting sort (ver el README de **"Ordenamientos catSort"**)
 
 ## 📈 Próximos pasos
 
