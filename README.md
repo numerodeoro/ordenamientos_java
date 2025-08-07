@@ -11,15 +11,9 @@ ordenamientos_java/
 
 ├── Bubble.java
 
-├── Bubble.class
-
 ├── Selection.java
 
-├── Selection.class
-
 ├── CatSort_flat.java
-
-├── CatSort_flat.class
 
 └── README.md
 
