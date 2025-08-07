@@ -1,10 +1,16 @@
 # <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/bce9f021-e7c5-40c4-8077-3a525c7c0c81" />        Algoritmos de Ordenamiento en java
 
-Este proyecto es la continuación de **"comparación de algoritmos de ordenamiento"** escrito en python. Entre otros objetivos, pretende evaluar el desempeño de distintos algoritmos de ordenamiento sobre listas de diferentes características.
+Este proyecto es la continuación de **"comparación de algoritmos de ordenamiento"** escrito originalmente en python. Su objetivo principal es evaluar el desempeño de distintos algoritmos de ordenamiento aplicados a listas con diferentes características.
 
-Aquél nació con la idea de repasar algoritmos de ordenamientos ya existentes y terminó desembocando en algunas variantes propias de los ordenamientos (*catSort*, inspirando en el counting aunque con varios cambios y *pivotear*, casi calcado del quick sort, pero con cambio de pivote y ligeramente distinta metodología en la partición) y en el desarrollo de un tester personalizado de los algoritmos. 
+Lo que comenzó como un simple repaso de algoritmos clásicos terminó derivando en variantes propias, como *catSort* (inspirado en el counting sort pero con varias modificaciones) y *pivotear* (similar al quicksort, con un cambio de estrategia en la elección del pivote y la partición). También desarrollé un sistema personalizado para testear el rendimiento de los algoritmos.
 
-Éste continuará la tarea en java, por ahora estoy comenzando
+Ahora, el trabajo continúa en Java. Por el momento, el proyecto está en sus primeras etapas.
+
+Este proyecto es la continuación de "Comparación de algoritmos de ordenamiento", escrito originalmente en Python. Su objetivo principal es evaluar el desempeño de distintos algoritmos de ordenamiento aplicados a listas con diferentes características.
+
+Lo que comenzó como un simple repaso de algoritmos clásicos terminó derivando en variantes propias, como catSort (inspirado en el counting sort pero con varias modificaciones) y pivotear (similar al quicksort, con un cambio de estrategia en la elección del pivote y la partición). También desarrollé un sistema personalizado para testear el rendimiento de los algoritmos.
+
+Ahora, el trabajo continúa en Java. Por el momento, el proyecto está en sus primeras etapas.
 
 ## 📂 Estructura del Proyecto
 ├── ordenamientos_java/
