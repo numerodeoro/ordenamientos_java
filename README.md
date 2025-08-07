@@ -11,7 +11,7 @@ Aquél nació con la idea de repasar algoritmos de ordenamientos ya existentes y
 
 │   ├── Bubble.class
 
-│   ├── bubble.java
+│   ├── Bubble.java
 
 │   ├── CatSort_flat.class
 
