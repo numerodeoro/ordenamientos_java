@@ -2,6 +2,7 @@
 
 Este proyecto es la continuación de **"comparación de algoritmos de ordenamiento"** escrito en python. Entre otros objetivos, pretende evaluar el desempeño de distintos algoritmos de ordenamiento sobre listas de diferentes características.
 Aquél nació con la idea de repasar algoritmos de ordenamientos ya existentes y terminó desembocando en algunas variantes propias de los ordenamientos (*catSort*, inspirando en el counting aunque con varios cambios y *pivotear*, casi calcado del quick sort, pero con cambio de pivote y ligeramente distinta metodología en la partición) y en el desarrollo de un tester personalizado de los algoritmos. 
+
 Éste continuará la tarea en java, por ahora estoy comenzando
 
 ## 📂 Estructura del Proyecto
