@@ -11,9 +11,11 @@ ordenamientos_java/
 
 ├── Bubble.java
 
-├── Selection.java
-
 ├── CatSort_flat.java
+
+├── Insertion.java
+
+├── Selection.java
 
 └── README.md
 
@@ -23,12 +25,13 @@ ordenamientos_java/
 - `Bubble` (burbuja)
 - `Selection` (selección)
 - `CatSort_flat` ordenamiento optimizado para listas con pocas categorías, versión muy libre del counting sort (ver el README de **"Ordenamientos catSort"**)
+- `Insertion`(Inserción)
 
 ## 📈 Próximos pasos
 
 ### Desarrollo de un banco de pruebas para realizar análisis comparativos
 
-### Implementación de mejoras sobre *CatSort_flat*
+### Implementación de mejoras sobre *CatSort_flat* (ya agregué la opción de ordenamiento personalizado)
 
 ### Codificación de *CatSort_table* en Java (versión más estructurada del catSort)
 
