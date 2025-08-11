@@ -22,7 +22,7 @@ public class Dividir_unir {
         int cont1 = 0, cont2 = 0;
 
 
-        while (lista1.size()>=1 && lista2.size()>=1 && cont1<lista1.size() && cont2 < lista2.size()){
+        while (lista1.size() >=1 && lista2.size() >=1 && cont1<lista1.size() && cont2 < lista2.size()){
             if((lista1.get(cont1))<lista2.get(cont2)){
                 unida.add(lista1.get(cont1));
                 cont1++;
