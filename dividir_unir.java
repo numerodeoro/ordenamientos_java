@@ -5,7 +5,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class dividir_unir {
+public class Dividir_unir {
     public static void main(String[] args) {
         int[] listaArray = {1, 5, 3, 4, 5, 10, 7, 8, 9, 0, 10, 34, 45, 67};
         // Convertir array a lista para trabajar mejor
